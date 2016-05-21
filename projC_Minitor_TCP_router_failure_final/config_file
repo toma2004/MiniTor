@@ -1,0 +1,9 @@
+#This is a comment line, should be ignored
+#ignore this too
+here to test
+stage 9
+num_routers 8
+minitor_hops 5
+die_after 2
+#please also ignore this
+just test
